@@ -1,3 +1,4 @@
+import { getLayout } from "@/components/Layout";
 import SliceZone from "next-slicezone";
 import { useGetStaticProps } from "next-slicezone/hooks";
 import { Client } from "../../prismic-configuration";
@@ -16,5 +17,7 @@ export const getStaticProps = useGetStaticProps({
     uid: "home",
   },
 });
+
+Home.getLayout = getLayout;
 
 export default Home;
