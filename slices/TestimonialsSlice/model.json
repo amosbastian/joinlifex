@@ -1,0 +1,71 @@
+{
+  "id": "testimonials_slice",
+  "type": "SharedSlice",
+  "name": "TestimonialsSlice",
+  "description": "TestimonialsSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TestimonialsSlice",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your feature"
+          }
+        }
+      },
+      "items": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "id": "image",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "quote": {
+          "config": {
+            "label": "Quote",
+            "placeholder": "LifeX is the best",
+            "allowTargetBlank": true,
+            "single": "paragraph,em,strong"
+          },
+          "type": "StructuredText"
+        },
+        "name": {
+          "config": {
+            "label": "Name",
+            "placeholder": "Amos Bastian",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "role": {
+          "config": {
+            "label": "Role",
+            "placeholder": "Full Stack Developer",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        }
+      }
+    }
+  ]
+}
