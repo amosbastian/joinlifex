@@ -13,10 +13,19 @@ export const OtherPerks = ({ title, perks }: OtherPerksProps) => {
       <Text as="h4" mb={6} fontSize="md" fontWeight="500">
         <RichText render={title} />
       </Text>
-      <Wrap direction={["column", "row"]} spacing={5} shouldWrapChildren>
+      <Wrap direction={["column", "row"]} spacing={5}>
         {perks.map((perk) => {
           return (
-            <WrapItem px={3} py={2} fontWeight="500" borderRadius="sm" maxW="max-content" bg="#E9E8E7" fontSize="sm">
+            <WrapItem
+              px={3}
+              py={2}
+              fontWeight="500"
+              borderRadius="sm"
+              maxW="max-content"
+              maxH="max-content"
+              bg="#E9E8E7"
+              fontSize="sm"
+            >
               {perk}
             </WrapItem>
           );

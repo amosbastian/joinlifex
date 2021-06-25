@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: Properties) {
   return (
     <ChakraProvider theme={theme} resetCSS>
       <Head />
-      <Component {...pageProps} />
+      {getLayout(<Component {...pageProps} />)}
     </ChakraProvider>
   );
 }

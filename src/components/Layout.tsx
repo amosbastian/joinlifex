@@ -10,7 +10,7 @@ export const Layout = ({ children }: LayoutPropps) => {
   return (
     <Box bg="white">
       <Header />
-      <Box as="main" minHeight="100vh" pt={16}>
+      <Box as="main" minHeight="100vh">
         {children}
       </Box>
       <Footer />

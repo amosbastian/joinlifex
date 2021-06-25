@@ -5,7 +5,6 @@ import { Client } from "../../prismic-configuration";
 import resolver from "../../sm-resolver.js";
 
 const Home = (props: any) => {
-  console.log(props);
   return <SliceZone {...props} resolver={resolver} />;
 };
 
