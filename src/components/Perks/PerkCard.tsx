@@ -13,10 +13,10 @@ export const PerkCard = ({ description, title, image }: PerkCardProps) => {
     <Box borderRadius="md" overflow="hidden" bg="white">
       <Image h="160px" w="100%" objectFit="cover" src={image.url} alt={image.alt} />
       <Box p={10}>
-        <Heading as="h3" mb={4} fontSize="18px">
+        <Text as="h3" mb={4} fontSize="18px" fontFamily="Inter" fontWeight="500">
           <RichText render={title} />
-        </Heading>
-        <Text fontSize="18px">
+        </Text>
+        <Text fontSize="md">
           <RichText render={description} />
         </Text>
       </Box>

@@ -28,6 +28,13 @@
             "single": "paragraph"
           },
           "type": "StructuredText"
+        },
+        "perks": {
+          "config": {
+            "label": "Perks",
+            "placeholder": "Hassle-free move-in,Free internet"
+          },
+          "type": "Text"
         }
       },
       "items": {

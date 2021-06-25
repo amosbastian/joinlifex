@@ -4,7 +4,7 @@ import { Container } from "./Container";
 
 export const PageSection = ({ children, ...rest }: BoxProps) => {
   return (
-    <Box as="section" {...rest} px={20} py={36}>
+    <Box as="section" {...rest} px={{ base: 4, sm: 20 }} py={{ base: 20, sm: 36 }}>
       <Container>{children}</Container>
     </Box>
   );

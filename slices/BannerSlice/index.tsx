@@ -13,7 +13,7 @@ const BannerSlice = ({ slice }: any) => {
       backgroundImage={slice.primary.image.url}
       justifyContent="center"
       flexDirection="column"
-      px={20}
+      px={{ base: 4, sm: 20 }}
       maxW="100%"
     >
       <Container w="100%">
@@ -26,7 +26,7 @@ const BannerSlice = ({ slice }: any) => {
           </Text>
         )}
         <ButtonGroup isAttached overflow="hidden">
-          <Button borderRadius="sm" maxW="max-content" mr="-px">
+          <Button borderRadius="sm" maxW="max-content" mr="-px" fontWeight="medium">
             {slice.primary.buttonLabel}
           </Button>
           <IconButton
