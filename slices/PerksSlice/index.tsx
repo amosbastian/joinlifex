@@ -1,10 +1,11 @@
 import { PageSection } from "../../src/components/Common";
-import { PerkCard } from "../../src/components/Perks";
+import { PerkCard, OtherPerks } from "../../src/components/Perks";
 import { Heading, Text, Grid } from "@chakra-ui/react";
 import { RichText } from "prismic-reactjs";
 import React from "react";
 
 const PerksSlice = ({ slice }: any) => {
+  console.log(slice.primary);
   return (
     <PageSection bg="#F8F3ED">
       <Heading size="xl" maxW="2xl" mb={6}>
@@ -20,6 +21,9 @@ const PerksSlice = ({ slice }: any) => {
           <PerkCard key={i} description={item.description} title={item.title} image={item.image} />
         ))}
       </Grid>
+      {slice.primary.perks && slice.primary.otherPerksTitle && (
+        <OtherPerks title={slice.primary.otherPerksTitle} perks={slice.primary.perks.split(",")} />
+      )}
     </PageSection>
   );
 };

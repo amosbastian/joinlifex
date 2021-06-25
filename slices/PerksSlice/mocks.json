@@ -9,18 +9,25 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Extend open-source supply-chains",
+          "text": "Deploy virtual methodologies",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Nostrud aute eiusmod nostrud cillum aute nostrud ipsum ad minim do labore commodo. Dolor officia dolore adipisicing anim fugiat ad pariatur ullamco mollit nostrud ullamco officia nulla esse.",
+          "text": "Et amet aute nulla enim sit ut. Aute non commodo pariatur do id tempor id commodo consequat fugiat elit.",
           "spans": []
         }
       ],
-      "perks": "Hassle-free move-in,More time for you,Local tips and guides,,Member-exclusive app"
+      "perks": "Hassle-free move-in,More time for you,Local tips and guides,,Member-exclusive app",
+      "otherPerksTitle": [
+        {
+          "type": "heading3",
+          "text": "Transition real-time metrics",
+          "spans": []
+        }
+      ]
     },
     "items": [
       {
@@ -31,19 +38,19 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
         },
         "title": [
           {
             "type": "heading2",
-            "text": "Synergize collaborative infomediaries",
+            "text": "Implement strategic bandwidth",
             "spans": []
           }
         ],
         "description": [
           {
             "type": "paragraph",
-            "text": "Lorem dolor quis dolor. Reprehenderit tempor minim anim eiusmod eiusmod do amet aliqua qui tempor eu consectetur eu laborum.",
+            "text": "Laborum duis minim id pariatur voluptate commodo ullamco excepteur proident. Culpa id voluptate Lorem. Amet laborum amet quis anim laboris aliqua dolor nulla excepteur elit.",
             "spans": []
           }
         ]
@@ -56,119 +63,19 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=900&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636?w=900&h=500&fit=crop"
         },
         "title": [
           {
             "type": "heading2",
-            "text": "Repurpose out-of-the-box portals",
+            "text": "Deliver integrated partnerships",
             "spans": []
           }
         ],
         "description": [
           {
             "type": "paragraph",
-            "text": "Fugiat cupidatat esse voluptate veniam ullamco dolore adipisicing duis duis aliqua deserunt cillum. Qui ut sunt anim proident reprehenderit dolore occaecat enim eu exercitation ullamco exercitation.",
-            "spans": []
-          }
-        ]
-      },
-      {
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118?w=900&h=500&fit=crop"
-        },
-        "title": [
-          {
-            "type": "heading2",
-            "text": "Deliver distributed solutions",
-            "spans": []
-          }
-        ],
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Nostrud elit officia ullamco reprehenderit. Commodo mollit do pariatur Lorem eiusmod aute.",
-            "spans": []
-          }
-        ]
-      },
-      {
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
-        },
-        "title": [
-          {
-            "type": "heading2",
-            "text": "Whiteboard turn-key eyeballs",
-            "spans": []
-          }
-        ],
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Esse est voluptate velit cillum enim nisi exercitation commodo adipisicing. Labore adipisicing ex nisi ullamco qui eu duis sunt laboris dolor ex qui laborum consequat.",
-            "spans": []
-          }
-        ]
-      },
-      {
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
-        },
-        "title": [
-          {
-            "type": "heading2",
-            "text": "Benchmark 24/7 e-commerce",
-            "spans": []
-          }
-        ],
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Lorem labore labore irure aliqua anim cupidatat quis officia magna.",
-            "spans": []
-          }
-        ]
-      },
-      {
-        "image": {
-          "dimensions": {
-            "width": 900,
-            "height": 500
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118?w=900&h=500&fit=crop"
-        },
-        "title": [
-          {
-            "type": "heading2",
-            "text": "Transition B2C networks",
-            "spans": []
-          }
-        ],
-        "description": [
-          {
-            "type": "paragraph",
-            "text": "Incididunt cupidatat cupidatat ex occaecat consectetur ad est amet esse reprehenderit ad mollit. Est deserunt Lorem mollit dolore do est ipsum deserunt minim irure laborum esse sit ipsum. Ad est est velit cupidatat commodo eu enim dolore consequat nostrud deserunt occaecat aliquip minim id.",
+            "text": "Id ipsum culpa ipsum ut ex eiusmod cillum irure labore ad deserunt. Excepteur in aute voluptate non proident et cupidatat.",
             "spans": []
           }
         ]

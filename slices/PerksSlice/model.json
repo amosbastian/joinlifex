@@ -35,6 +35,15 @@
             "placeholder": "Hassle-free move-in,Free internet"
           },
           "type": "Text"
+        },
+        "otherPerksTitle": {
+          "config": {
+            "label": "Perks Title",
+            "placeholder": "Other perks",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          },
+          "type": "StructuredText"
         }
       },
       "items": {

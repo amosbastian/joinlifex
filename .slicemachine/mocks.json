@@ -34,6 +34,12 @@
       },
       "perks": {
         "content": "Hassle-free move-in,More time for you,Local tips and guides,,Member-exclusive app"
+      },
+      "otherPerksTitle": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
       }
     },
     "items": {
